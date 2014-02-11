@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: William Langford
+url: http://wtlangford.github.io
+description: Random ramblings
+twitter: wtlangford
+github: wtlangford 
+#gravatar_url: http://gravatar.com/avatar/c7393b7ba7ec9c8890dd77d209fbb3c9 
